@@ -1,0 +1,5 @@
+export(calculate_mean)
+export(calculate_median)
+export(calculate_mode)
+export(calculate_variance)
+export(calculate_sd)
